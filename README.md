@@ -25,21 +25,21 @@ data should be:
 ```
 
 **example hit :**
-[sign up](https://ahmadosbeh-api-server.herokuapp.com/api/v1/food)
+[sign up](https://ahmad-osbeh-basic-auth.herokuapp.com/api/v1/signup)
 
-- https://ahmadosbeh-api-server.herokuapp.com/api/v1/food
+- https://ahmad-osbeh-basic-auth.herokuapp.com/api/v1/signup
 
 **example hit :**
-[signin](https://ahmadosbeh-api-server.herokuapp.com/api/v1/clothes)
+[signin](https://ahmad-osbeh-basic-auth.herokuapp.com/api/v1/signin)
 
-- https://ahmadosbeh-api-server.herokuapp.com/api/v1/clothes
+- https://ahmad-osbeh-basic-auth.herokuapp.com/api/v1/signin
 
 - Returns : json with requested data
 
 ```
 
 {
-"domain": "https://ahmadosbeh-api-server.herokuapp.com/",
+"domain": "https://ahmad-osbeh-basic-auth.herokuapp.com/",
 "status": "running",
 "port": 3003
 }
