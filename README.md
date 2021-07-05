@@ -48,7 +48,7 @@ data should be:
 
 # PR link
 
-[PR link](https://github.com/Ahmad-AbuOsbeh/api-server/pull/1)
+[PR link](https://github.com/Ahmad-AbuOsbeh/basic-auth/pull/1)
 
 **Tests**
 
@@ -60,4 +60,4 @@ data should be:
 
 <br>
 
-![UML-lab03](images/basic-auth.jpg)
+![basic-auth](images/basic-auth.jpg)
